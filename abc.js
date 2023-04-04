@@ -1,6 +1,6 @@
 const newConst = "sadasd";
 const addedConst = "This Constant"
 
-function justPrintAName(){
-  console.log("Just Printing a Random Name")
+function returnSum(){
+ return (3+5); 
 }
