@@ -8,3 +8,7 @@ function returnSum(){
 function newFunc(){
     return "";
 }
+
+function addedNewFunction(){
+    return addedConst
+}
